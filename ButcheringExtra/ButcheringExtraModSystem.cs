@@ -67,7 +67,7 @@ class BlockEntityButcherTableFix : BlockEntityButcherTable
 
 
 
-public class butchering_patchModSystem : ModSystem
+public class ButcheringExtraModSystem : ModSystem
 {
     public override void Start(ICoreAPI api)
     {
