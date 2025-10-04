@@ -6,9 +6,9 @@
         "Agamand"
     ],
     "description": "Show perish info on Hook",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "dependencies": {
-        "game": "",
+        "game": "1.21.0",
         "butchering": ""
     }
 }
