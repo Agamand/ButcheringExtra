@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "butcheringextra",
+    "name": "Butchering Extra",
+    "authors": [
+        "Agamand"
+    ],
+    "description": "Show perish info on Hook",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": "",
+        "butchering": ""
+    }
+}

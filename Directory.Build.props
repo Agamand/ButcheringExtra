@@ -1,0 +1,7 @@
+<Project>
+    <PropertyGroup>
+        <VINTAGE_STORY>$(VINTAGE_STORY_120)</VINTAGE_STORY>
+        <EXT_LIB>$(EXT_LIB_120)</EXT_LIB>
+        <FrameworkVersion>net7.0</FrameworkVersion>
+    </PropertyGroup>
+</Project>
